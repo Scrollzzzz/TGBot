@@ -1,0 +1,2 @@
+aiogram==2.22.1
+aiogram-datepicker==0.0.8
